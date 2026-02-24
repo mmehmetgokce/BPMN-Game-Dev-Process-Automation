@@ -13,38 +13,29 @@ This is an engineering study that models game development processes using BPMN 2
 
 ## Methodology
 
-*
-**Modeling:** All development stages were standardized with BPMN 2.0.
+* **Modeling:** All development stages were standardized with BPMN 2.0.
 
-*
-**Validation:** Processes were analyzed with the $\epsilon$-NFA (epsilon-Nondeterministic Finite Automaton) model.
+* **Validation:** Processes were analyzed with the $\epsilon$-NFA (epsilon-Nondeterministic Finite Automaton) model.
 
-*
-**Mathematical Expression:** The regular expression of the flow was defined as $0^{*}10^{*}11^{*}0$.
+* **Mathematical Expression:** The regular expression of the flow was defined as $0^{*}10^{*}11^{*}0$.
 
 
 ## Tools Used
 
-*
-**Camunda Modeler:** Executable process models.
+* **Camunda Modeler:** Executable process models.
 
-*
-**Python (Graphviz):** Dynamic flowchart generation.
+* **Python (Graphviz):** Dynamic flowchart generation.
 
-*
-**C++ (Validation):** Automata-based process validation engine.
+* **C++ (Validation):** Automata-based process validation engine.
 
-*
-**Trello:** Project management and team coordination.
+* **Trello:** Project management and team coordination.
 
 
 ## Validation Output
 
-*
-**Successful:** When the process is completed according to the rules, the output "string is in the language" is received.
+* **Successful:** When the process is completed according to the rules, the output "string is in the language" is received.
 
-*
-**Error:** In case of a logical deviation or deficiency, the warning "string is not in the language" is given.
+* **Error:** In case of a logical deviation or deficiency, the warning "string is not in the language" is given.
 
 ---
 
@@ -66,38 +57,29 @@ Oyun geliştirme süreçlerini BPMN 2.0 standartlarıyla modelleyen ve Otomata T
 
 ## Methodology
 
-* 
-**Modelleme:** Tüm geliştirme aşamaları BPMN 2.0 ile standartlaştırıldı.
+* **Modelleme:** Tüm geliştirme aşamaları BPMN 2.0 ile standartlaştırıldı.
 
-* 
-**Doğrulama:** Süreçler $\epsilon$-NFA (epsilon-Nondeterministic Finite Automaton) modeliyle analiz edildi. 
+* **Doğrulama:** Süreçler $\epsilon$-NFA (epsilon-Nondeterministic Finite Automaton) modeliyle analiz edildi. 
 
-* 
-**Matematiksel İfade:** Akışın düzenli ifadesi (Regular Expression) $0^{*}10^{*}11^{*}0$ olarak tanımlandı. 
+* **Matematiksel İfade:** Akışın düzenli ifadesi (Regular Expression) $0^{*}10^{*}11^{*}0$ olarak tanımlandı. 
 
 
 ## Tools Used
 
-* 
-**Camunda Modeler:** Yürütülebilir süreç modelleri. 
+* **Camunda Modeler:** Yürütülebilir süreç modelleri. 
 
-* 
-**Python (Graphviz):** Dinamik akış diyagramı üretimi. 
+* **Python (Graphviz):** Dinamik akış diyagramı üretimi. 
 
-* 
-**C++ (Validation):** Otomata tabanlı süreç doğrulama motoru. 
+* **C++ (Validation):** Otomata tabanlı süreç doğrulama motoru. 
 
-* 
-**Trello:** Proje yönetimi ve ekip koordinasyonu. 
+* **Trello:** Proje yönetimi ve ekip koordinasyonu. 
 
 
 ## Validation Output
 
-* 
-**Başarılı:** Süreç kurallara uygun tamamlandığında "string is in the language" çıktısı alınır. 
+* **Başarılı:** Süreç kurallara uygun tamamlandığında "string is in the language" çıktısı alınır. 
 
-* 
-**Hatalı:** Mantıksal bir sapma veya eksiklikte "string is not in the language" uyarısı verilir. 
+* **Hatalı:** Mantıksal bir sapma veya eksiklikte "string is not in the language" uyarısı verilir. 
 
 
 ---
