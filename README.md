@@ -1,4 +1,4 @@
-# BPMN-Game-Dev-Process-Automation
+# BPMN Game Dev Process Automation
 
 
 This is an engineering study that models game development processes using BPMN 2.0 standards and mathematically validates them with Automata Theory.
